@@ -1,0 +1,8 @@
+Name: Aman | Marks: 95 | Grade: A
+Name: Riya | Marks: 82 | Grade: B
+Name: Kunal | Marks: 75 | Grade: C
+Name: Neha | Marks: 64 | Grade: D
+Name: Rahul | Marks: 40 | Grade: F
+Name: Invalid | Marks: -5 | Re-prompt
+Name: Invalid | Marks: 150 | Re-prompt
+Name: Invalid | Marks: abc | Error handled
